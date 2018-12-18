@@ -1,4 +1,25 @@
-# ADDB
-Puede encontrar las diferentes estructuras creadas de Farmacia y Vivero en sus respectivas carpetas. 
-Tambien puede encontrar el fichero Triggers donde puede comprobar el correcto funcionamiento en PL/SQL de nuestros modelos,y 
-como se ha llgado al objetivo
+# Administración y Diseño de Bases de Datos: Triggers
+- Mireia Marta Scholz Díaz (alu0100905144@ull.edu.com)
+- Beatríz Gil González (bei.g.g.97@gmail.com)
+- Alejandro Lorenzo Dávila (alu0100952100@ull.edu.es)
+
+En este repositorio se incluyen los __modelos conceptuales__, __modelos lógicos__, scripts sql generados con la herramienta *MySQL Workbench*, así como los __scripts postgresql__ equivalentes, para los casos __vivero__ y __farmacia__ propuestos.
+
+## 1. Farmacia
+### Modelo conceptual
+![InsertIntoExample](/Farmacia/Imagenes/modelo_conceptual.png?raw=true)
+### Modelo lógico
+![InsertIntoExample](/Farmacia/Imagenes/modelo_logico.png?raw=true)
+### Scripts
+[SQL] (/Farmacia/Scripts/farmacias_postgresql.sql)
+[PostgreSQL] (/Farmacia/Scripts/Farmacia_sql.sql)
+
+## 2. Viveros
+### Modelo conceptual
+![InsertIntoExample](/Viveros/Imagenes/modelo_conceptual.png?raw=true)
+### Modelo lógico
+![InsertIntoExample](/Viveros/Imagenes/modelo_logico.png?raw=true)
+### Scripts
+[SQL] (/Viveros/Scripts/vivero_postgresql.sql)
+[PostgreSQL] (/Viveros/Scripts/vivero_sql.sql)
+
