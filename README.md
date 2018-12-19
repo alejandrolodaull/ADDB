@@ -10,16 +10,10 @@ En este repositorio se incluyen los __modelos conceptuales__, __modelos lógicos
 ![InsertIntoExample](/Farmacia/Imagenes/modelo_conceptual.png?raw=true)
 ### Modelo lógico
 ![InsertIntoExample](/Farmacia/Imagenes/modelo_logico.png?raw=true)
-### Scripts
-[SQL] (/Farmacia/Scripts/farmacias_postgresql.sql)
-[PostgreSQL] (/Farmacia/Scripts/Farmacia_sql.sql)
 
 ## 2. Viveros
 ### Modelo conceptual
 ![InsertIntoExample](/Viveros/Imagenes/modelo_conceptual.png?raw=true)
 ### Modelo lógico
 ![InsertIntoExample](/Viveros/Imagenes/modelo_logico.png?raw=true)
-### Scripts
-[SQL] (/Viveros/Scripts/vivero_postgresql.sql)
-[PostgreSQL] (/Viveros/Scripts/vivero_sql.sql)
 
