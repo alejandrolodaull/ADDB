@@ -3,7 +3,7 @@
 - Beatríz Gil González (bei.g.g.97@gmail.com)
 - Alejandro Lorenzo Dávila (alu0100952100@ull.edu.es)
 
-En este repositorio se incluyen los __modelos conceptuales__, __modelos lógicos__, scripts sql generados con la herramienta *MySQL Workbench*, así como los __scripts postgresql__ equivalentes, para los casos __vivero__ y __farmacia__ propuestos.
+Además de los triggers desarrollados en esta practica, en el repositorio se incluyen los __modelos conceptuales__, __modelos lógicos__, scripts sql generados con la herramienta *MySQL Workbench*, así como los __scripts postgresql__ equivalentes, para los casos __vivero__ y __farmacia__ propuestos.
 
 ## ÍNDICE
 1. __Farmacia__  
