@@ -6,14 +6,14 @@
 En este repositorio se incluyen los __modelos conceptuales__, __modelos lógicos__, scripts sql generados con la herramienta *MySQL Workbench*, así como los __scripts postgresql__ equivalentes, para los casos __vivero__ y __farmacia__ propuestos.
 
 ## ÍNDICE
-1. __Farmacia__
-Modelo conceptual
-Modelo lógico
-Triggers
-2. __Viveros__
-Modelo conceptual
-Modelo lógico
-Triggers
+1. __Farmacia__  
+Modelo conceptual  
+Modelo lógico  
+Triggers  
+2. __Viveros__  
+Modelo conceptual  
+Modelo lógico  
+Triggers  
 
 ## 1. Farmacia
 ### Modelo conceptual
