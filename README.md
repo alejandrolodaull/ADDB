@@ -7,13 +7,19 @@ En este repositorio se incluyen los __modelos conceptuales__, __modelos lógicos
 
 ## 1. Farmacia
 ### Modelo conceptual
-![InsertIntoExample](/Farmacia/Imagenes/modelo_conceptual.png?raw=true)
+![mcfarmacia](/Farmacia/Imagenes/modelo_conceptual.png?raw=true)
 ### Modelo lógico
-![InsertIntoExample](/Farmacia/Imagenes/modelo_logico.png?raw=true)
+![mlfarmacia](/Farmacia/Imagenes/modelo_logico.png?raw=true)
 
 ## 2. Viveros
 ### Modelo conceptual
-![InsertIntoExample](/Viveros/Imagenes/modelo_conceptual.png?raw=true)
+![mcvivero](/Viveros/Imagenes/modelo_conceptual.png?raw=true)
 ### Modelo lógico
-![InsertIntoExample](/Viveros/Imagenes/modelo_logico.png?raw=true)
+![mlvivero](/Viveros/Imagenes/modelo_logico.png?raw=true)
+### Triggers
+(El código de los triggeres implementados se puede consultar en __/Viveros/Triggers__)  
+Se han desarrollado 2 triggers que realmente deberían ser una única transacción:  
+- El primero (__vender_producto__) comprueba que, antes de que un cliente compre un producto, haya stock suficiente. Además, añade la fecha y hora actual a la fila que se va a insertar (se insertará en la tabla cliente_producto).  
+- El segundo (__actualizar_stock__) actualiza el stock (en la tabla producto) despues de que se haya registrado una compra (en cliente_producto) 
+![ejecuciontriggervivero](/Viveros/Triggers/ejecucion.png?raw=true)
 
