@@ -1,5 +1,4 @@
 # Administración y Diseño de Bases de Datos: Triggers
-- Mireia Marta Scholz Díaz (alu0100905144@ull.edu.com)
 - Beatríz Gil González (bei.g.g.97@gmail.com)
 - Alejandro Lorenzo Dávila (alu0100952100@ull.edu.es)
 
